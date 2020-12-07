@@ -72,7 +72,7 @@ loadDataset('Dataset-KNN.csv', split, trainingSet, testSet)
 print 'Train set: ' + repr(len(trainingSet))
 print 'Test set: ' + repr(len(testSet))
 predictions = []
-k = 3
+k = 4
 for x in range(len(testSet)):
     neighbors = getNeighbors(trainingSet, testSet[x], k)
     result = getResponse(neighbors)
