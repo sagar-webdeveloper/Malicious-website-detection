@@ -68,7 +68,7 @@ def getAccuracy(testSet, predictions):
 trainingSet = []
 testSet = []
 split = 0.67
-loadDataset('Dataset-KNN.csv', split, trainingSet, testSet)
+loadDataset('dataset//KNN-Dataset.csv', split, trainingSet, testSet)
 print 'Train set: ' + repr(len(trainingSet))
 print 'Test set: ' + repr(len(testSet))
 predictions = []

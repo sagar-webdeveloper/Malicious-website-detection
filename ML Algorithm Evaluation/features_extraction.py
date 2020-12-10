@@ -1,10 +1,3 @@
-# Purpose -
-# Running this file (stand alone) - For extracting all the features from a web page for testing.
-# Notes -
-# 1 stands for legitimate
-# 0 stands for suspicious
-# -1 stands for phishing
-
 from bs4 import BeautifulSoup
 import urllib
 import bs4
@@ -16,8 +9,7 @@ import time
 import pandas as pd
 import csv 
 
-# https://breakingcode.wordpress.com/2010/06/29/google-search-python/
-# Previous package structure was modified. Import statements according to new structure added. Also code modified.
+
 from googlesearch import search
 
 # This import is needed only when you run this file in isolation.
@@ -31,13 +23,13 @@ LOCALHOST_PATH = "C:/wamp64/www/"
 DIRECTORY_NAME = "code"
 
 
-def having_ip_address(url):
+def urlHasIP(url):
     ip_address_pattern = ipv4_pattern + "|" + ipv6_pattern
     match = re.search(ip_address_pattern, url)
     return -1 if match else 1
 
 
-def url_length(url):
+def urlIsLong(url):
     if len(url) < 54:
         return 1
     if 54 <= len(url) <= 75:
@@ -45,33 +37,33 @@ def url_length(url):
     return -1
 
 
-def shortening_service(url):
+def urlIsShort(url):
     match = re.search(shortening_services, url)
     return -1 if match else 1
 
 
-def having_at_symbol(url):
+def urlHasAtSymbol(url):
     match = re.search('@', url)
     return -1 if match else 1
 
 
-def double_slash_redirecting(url):
+def urlHasRedirection(url):
     # since the position starts from 0, we have given 6 and not 7 which is according to the document.
     # It is convenient and easier to just use string search here to search the last occurrence instead of re.
     last_double_slash = url.rfind('//')
     return -1 if last_double_slash > 6 else 1
 
 
-def prefix_suffix(domain):
+def urlHasHyphen(domain):
     match = re.search('-', domain)
     return -1 if match else 1
 
 
-def having_sub_domain(url):
+def urlHasMultiDomain(url):
     # Here, instead of greater than 1 we will take greater than 3 since the greater than 1 condition is when www and
     # country domain dots are skipped
     # Accordingly other dots will increase by 1
-    if having_ip_address(url) == -1:
+    if urlHasIP(url) == -1:
         match = re.search(
             '(([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\.'
             '([01]?\\d\\d?|2[0-4]\\d|25[0-5]))|(?:[a-fA-F0-9]{1,4}:){7}[a-fA-F0-9]{1,4}',
@@ -87,20 +79,10 @@ def having_sub_domain(url):
         return -1
 
 
-def domain_registration_length(domain):
-    expiration_date = domain.expiration_date
-    today = time.strftime('%Y-%m-%d')
-    today = datetime.strptime(today, '%Y-%m-%d')
-
-    registration_length = 0
-    # Some domains do not have expiration dates. This if condition makes sure that the expiration date is used only
-    # when it is present.
-    if expiration_date:
-        registration_length = abs((expiration_date - today).days)
-    return -1 if registration_length / 365 <= 1 else 1
 
 
-def favicon(wiki, soup, domain):
+
+def urlHasFeviconDomain(wiki, soup, domain):
     try:
         for head in soup.find_all('head'):
             for head.link in soup.find_all('link', href=True):
@@ -112,59 +94,16 @@ def favicon(wiki, soup, domain):
 
 
 
-def https_token(url):
-    match = re.search(http_https, url)
-    if match and match.start() == 0:
-        url = url[match.end():]
-    match = re.search('http|https', url)
-    return -1 if match else 1
+
+def abnormal_url(domain, url):
+    hostname = domain.name
+    match = re.search(hostname, url)
+    return 1 if match else -1
 
 
-def request_url(wiki, soup, domain):
-    try:
-        i = 0
-        success = 0
-        for img in soup.find_all('img', src=True):
-            dots = [x.start() for x in re.finditer(r'\.', img['src'])]
-            if wiki in img['src'] or domain in img['src'] or len(dots) == 1:
-                success = success + 1
-            i = i + 1
-
-        for audio in soup.find_all('audio', src=True):
-            dots = [x.start() for x in re.finditer(r'\.', audio['src'])]
-            if wiki in audio['src'] or domain in audio['src'] or len(dots) == 1:
-                success = success + 1
-            i = i + 1
-
-        for embed in soup.find_all('embed', src=True):
-            dots = [x.start() for x in re.finditer(r'\.', embed['src'])]
-            if wiki in embed['src'] or domain in embed['src'] or len(dots) == 1:
-                success = success + 1
-            i = i + 1
-
-        for i_frame in soup.find_all('i_frame', src=True):
-            dots = [x.start() for x in re.finditer(r'\.', i_frame['src'])]
-            if wiki in i_frame['src'] or domain in i_frame['src'] or len(dots) == 1:
-                success = success + 1
-            i = i + 1
-
-        try:
-            percentage = success / float(i) * 100
-        except:
-            return 1
-
-        if percentage < 22.0:
-            return 1
-        elif 22.0 <= percentage < 61.0:
-            return 0
-        else:
-            return -1
-
-    except Exception as ex:
-        return 0
 
 
-def url_of_anchor(wiki, soup, domain):
+def urlHasAnchorDifferentDomain(wiki, soup, domain):
     try:
         i = 0
         unsafe = 0
@@ -192,7 +131,6 @@ def url_of_anchor(wiki, soup, domain):
         return 0
 
 
-# Links in <Script> and <Link> tags
 def links_in_tags(wiki, soup, domain):
     try:
         i = 0
@@ -221,11 +159,9 @@ def links_in_tags(wiki, soup, domain):
             return -1
     except Exception as ex:
         return 0
-    
 
 
-# Server Form Handler (SFH)
-# Have written conditions directly from word file..as there are no sites to test ######
+
 def sfh(wiki, soup, domain):
     try:
         for form in soup.find_all('form', action=True):
@@ -238,60 +174,19 @@ def sfh(wiki, soup, domain):
         return 1
     except Exception as ex:
         return 0
-
+    
+# here
 
 # Mail Function
 # PHP mail() function is difficult to retrieve, hence the following function is based on mailto
-def submitting_to_email(soup):
+def urlHasMail(soup):
     for form in soup.find_all('form', action=True):
         return -1 if "mailto:" in form['action'] else 1
     # In case there is no form in the soup, then it is safe to return 1.
     return 1
 
 
-def abnormal_url(domain, url):
-    hostname = domain.name
-    match = re.search(hostname, url)
-    return 1 if match else -1
-
-
-# IFrame Redirection
-def i_frame(soup):
-    for i_frame in soup.find_all('i_frame', width=True, height=True, frameBorder=True):
-        # Even if one iFrame satisfies the below conditions, it is safe to return -1 for this method.
-        if i_frame['width'] == "0" and i_frame['height'] == "0" and i_frame['frameBorder'] == "0":
-            return -1
-        if i_frame['width'] == "0" or i_frame['height'] == "0" or i_frame['frameBorder'] == "0":
-            return 0
-    # If none of the iframes have a width or height of zero or a frameBorder of size 0, then it is safe to return 1.
-    return 1
-
-
-def age_of_domain(domain):
-    creation_date = domain.creation_date
-    expiration_date = domain.expiration_date
-    ageofdomain = 0
-    if expiration_date:
-        ageofdomain = abs((expiration_date - creation_date).days)
-    return -1 if ageofdomain / 30 < 6 else 1
-
-
-def web_traffic(url):
-    try:
-        rank = \
-            bs4.BeautifulSoup(urllib.urlopen("http://data.alexa.com/data?cli=10&dat=s&url=" + url).read(), "xml").find(
-                "REACH")['RANK']
-    except TypeError:
-        return -1
-    rank = int(rank)
-    return 1 if rank < 100000 else 0
-
-
-def google_index(url):
-    site = search(url, 5)
-    return 1 if site else -1
-
-
+#status bar tempered
 def statistical_report(url, hostname):
     try:
         ip_address = socket.gethostbyname(hostname)
@@ -314,6 +209,20 @@ def statistical_report(url, hostname):
     else:
         return 1
 
+# IFrame Redirection
+def urlHasIframe(soup):
+    for i_frame in soup.find_all('i_frame', width=True, height=True, frameBorder=True):
+        # Even if one iFrame satisfies the below conditions, it is safe to return -1 for this method.
+        if i_frame['width'] == "0" and i_frame['height'] == "0" and i_frame['frameBorder'] == "0":
+            return -1
+        if i_frame['width'] == "0" or i_frame['height'] == "0" or i_frame['frameBorder'] == "0":
+            return 0
+    # If none of the iframes have a width or height of zero or a frameBorder of size 0, then it is safe to return 1.
+    return 1
+
+
+
+
 
 def get_hostname_from_url(url):
     hostname = url
@@ -329,25 +238,39 @@ def get_hostname_from_url(url):
 
     return hostname
 
-# TODO: Put the DNS and domain code into a function.
+#TODO: Put the DNS and domain code into a function.
+def predict(data):
+    f=0
+    weight = [3.33346292e-01, -1.11200396e-01, -7.77821806e-01, 1.11058590e-01, 3.89430647e-01, 1.99992062e+00, 4.44366975e-01, -2.77951957e-01, -6.00531647e-05, 3.33200243e-01, 2.66644002e+00, 6.66735991e-01, 5.55496098e-01, 5.57022408e-02, 2.22225591e-01, -1.66678858e-01];
+    for j in data:
+        f += data[j] * weight[j]
+        if f > 0:
+            return 1
+            print("pass")
+        else:
+            return -1
+            print("fail")
+
+    
+
 
 
 def main(url):
-    with open(LOCALHOST_PATH + DIRECTORY_NAME + '/markup.txt', 'r') as file:
+    with open('markup.txt', 'r') as file:
         soup_string = file.read()
 
     soup = BeautifulSoup(soup_string, 'html.parser')
 
-    status = []
+    result = []
     hostname = get_hostname_from_url(url)
 
-    status.append(having_ip_address(url))
-    status.append(url_length(url))
-    status.append(shortening_service(url))
-    status.append(having_at_symbol(url))
-    status.append(double_slash_redirecting(url))
-    status.append(prefix_suffix(hostname))
-    status.append(having_sub_domain(url))
+    result.append(urlHasIP(url))
+    result.append(urlIsLong(url))
+    result.append(urlIsShort(url))
+    result.append(urlHasAtSymbol(url))
+    result.append(urlHasRedirection(url))
+    result.append(urlHasHyphen(hostname))
+    result.append(urlHasMultiDomain(url))
 
     dns = 1
     try:
@@ -355,58 +278,53 @@ def main(url):
     except:
         dns = -1
 
-    status.append(-1 if dns == -1 else domain_registration_length(domain))
+    #status.append(-1 if dns == -1 else domain_registration_length(domain))
 
-    status.append(favicon(url, soup, hostname))
-    status.append(https_token(url))
-    status.append(request_url(url, soup, hostname))
-    status.append(url_of_anchor(url, soup, hostname))
-    status.append(links_in_tags(url, soup, hostname))
-    status.append(sfh(url, soup, hostname))
-    status.append(submitting_to_email(soup))
+    result.append(urlHasFeviconDomain(url, soup, hostname))
+    result.append(urlHasAnchorDifferentDomain(url, soup, hostname))
+    result.append(links_in_tags(url, soup, hostname))
+    result.append(sfh(url, soup, hostname))
+    result.append(urlHasMail(soup))
 
-    status.append(-1 if dns == -1 else abnormal_url(domain, url))
+    result.append(-1 if dns == -1 else abnormal_url(domain, url))
 
-    status.append(i_frame(soup))
+    result.append(urlHasIframe(soup))
 
-    status.append(-1 if dns == -1 else age_of_domain(domain))
+    result.append(dns)
 
-    status.append(dns)
+    result.append(statistical_report(url, hostname))
+    result.append(predict(result))
+    print(result)
 
-    status.append(web_traffic(soup))
-    status.append(google_index(url))
-    status.append(statistical_report(url, hostname))
-
-    yield status
+    yield result  
 
 
 # Use the below two lines if features_extraction.py is being run as a standalone file. If you are running this file as
 # a part of the workflow pipeline starting with the chrome extension, comment out these two lines.
 if __name__ == "__main__":
-#    if len(sys.argv) != 2:
-#        print("Please use the following format for the command - `python2 features_extraction.py <url-to-be-tested>`")
-#        sys.exit(0)
-#    main(sys.argv[1])
-    #fields = ['url']
+
     df_list=[]
-    df = pd.read_csv('phishing_dataset.csv')
+    df = pd.read_csv('dataset//Url-dataset.csv')
 
     # Add the headers to csv
     df_headers = pd.DataFrame(columns=['havingIPAddress','urlLength', 'urlShorteningService',
                 'havingAtsymbol','havingDoubleSlash','havingDashSymbol',
-                'havingMultipleSubdomains','sslFinalState','domainRegistrationLength',
-                'Favicon','httpOrHttpsTokenInDomainName','requestURL',
-                'urlOfAnchor','linksInTags','SFH',
-                'submittingToEmail','abnormalUrl','IFrame',
-                'ageOfDomain','dnsRecord','webTraffic','googleIndex'])
+                'havingMultipleSubdomains','domainRegistrationLength',
+                'Favicon','urlOfAnchor','linksInTags','SFH',
+                'submittingToEmail','abnormalUrl','IFrame','dnsRecord','result'])
     
-    with open('verified_online_output.csv', 'a') as f:
+    with open('verified_online.csv', 'a') as f:
         df_headers.to_csv(f, header=True)
 
     count = 0 
-    with open('verified_online_output.csv', "a+") as fd:
+    with open('verified_online.csv', "a+") as fd:
         for url in df.ix[:,0]:
             count +=1
             print "Record written to file " + str(count)
             writer = csv.writer(fd)
             writer.writerows(main(url))
+
+
+
+                      
+            

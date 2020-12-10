@@ -1,1172 +1,1010 @@
-<!doctype html>
-<html lang="tr">
-<head>
-  <meta charset="utf-8">
-<title>en iyi akustik gitar şarkıları - ekşi sözlük</title>
-<link title="ekşi sözlük" rel="search" type="application/opensearchdescription+xml" href="/odesc.xml">
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic,600&subset=latin,latin-ext">
 
-
-
-
-
-<link href="//ekstat.com/css/ek$i-36d6db239f17c95b.css" rel="stylesheet" />
-
-
-
-<script>
-  dataLayer = [{
-  'elogin': '0',
-  'esubdom': 'eksisozluk',
-  'etitle': 'en-iyi-akustik-gitar-sarkilari',
-  'ecat1': 'anket',
-  'econtentid': '3333773',
-  'epagetype': 'detail',
-  'epublishdate': '',
-  'epublishtime': '',
-  'econtenttype': 'topic',
-  'efiltre': '',
-  'adu': '0',
-  }];
-</script>
-
-
-
-
-<!-- Google Tag Manager -->
-<script>
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WXV2Z47');</script>
-<!-- End Google Tag Manager -->
-<script src="https://nativespot.com/apijs/v1.js" async></script>
-<script>
-    var NativeAdPub = window.NativeAdPub || [];
-</script>
-<script src="https://app.networkad.net/netasync.js?zid=314&hbid=1" async></script>
-<script src="https://app.networkad.net/netasync.js?zid=313&hbid=1" async></script>
-<script src="https://app.networkad.net/netasync.js?zid=317&hbid=1" async></script>
-<script src="https://app.networkad.net/netasync.js?zid=318&hbid=1" async></script>
-<script src="https://app.networkad.net/netasync.js?zid=319&hbid=1" async></script>
-<script src="https://app.networkad.net/netasync.js?zid=320&hbid=1" async></script>
-<script src="https://app.networkad.net/netasync.js?zid=321&hbid=1" async></script>
-<script src="https://app.networkad.net/netasync.js?zid=302&hbid=1" async></script>
-<script type="text/javascript" src="https://app.gelirartisi.com/withdfp.js?sid=6" async></script>
-<script async='async' src="https://static.criteo.net/js/ld/publishertag.js"></script>
-<script>
-  window.Criteo = window.Criteo || {};
-  window.Criteo.events = window.Criteo.events || [];
-</script>
-<script data-cfasync="false" type="text/javascript">(function (w, d) { var s = d.createElement("script"); s.src = "https://delivery.adrecover.com/41209/adRecover.js"; s.type = "text/javascript"; s.async = true; (d.getElementsByTagName("head")[0] || d.getElementsByTagName("body")[0]).appendChild(s); })(window, document);</script>
-<script>
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-  (function() {
-    var gads = document.createElement("script");
-    gads.async = true;
-    gads.type = "text/javascript";
-    var useSSL = "https:" == document.location.protocol;
-    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-    var node =document.getElementsByTagName("script")[0];
-    node.parentNode.insertBefore(gads, node);
-   })();
-</script>
-
- 
-<script src="//ekstat.com/js/jquery-combo.js?v=1HQ2Lf6r65_MGnhsGY-0qcsBKewq1syzqFHSpd4GfOY1"></script>
-<script src="//ekstat.com/js/ek$i-combo.js?v=MNabZEbwcjA8SS-5bXD3BklAw4_y8IZXso7q8kmF-Vg1"></script>
-
-<script defer src="//ekstat.com/js/lib-defer.js?v=Jz3pu7VX1X0sYKy81oygjzxN1E0jJ1dx-iK00TIqiBo1"></script>
-<script defer src="//ekstat.com/js/ek$i-defer.js?v=5RAuxxHQnXm8Sz8adRknq0Gr33XJg1DeuOAX76KVeao1"></script>
-
-
-<meta property="fb:app_id" content="151735074873255">
-<meta property="og:site_name" content="ekşi sözlük">
-<meta property="og:locale" content="tr_TR">
-<meta property="og:type" content="article">
-<meta property="og:image" content="https://ekstat.com/img/ilogo_fbv2.png?v=1">
-
-<meta property="og:title" content="en iyi akustik gitar şarkıları">
-<meta property="og:description" content="ilk aklıma gelenler:
-
-yui - life
-http://vimeo.com/18407520
-
-iron &amp; wine - boy with a coin
-http://youtu.be/KHw7gdJ14uQ">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="apple-touch-icon" sizes="180x180" href="//ekstat.com/img/apple-touch-icon.png">
-<link rel="icon" type="image/png" href="//ekstat.com/img/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="//ekstat.com/img/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="/manifest.json">
-<link rel="mask-icon" href="//ekstat.com/img/safari-pinned-tab.svg" color="#81C14B">
-<meta name="apple-mobile-web-app-title" content="ekşi sözlük">
-<meta name="application-name" content="ekşi sözlük">
-<meta name="theme-color" content="#ffffff">
-
-
-<meta name="homepage" content="False" />
-<meta name="user-rank" content="0" />
-<meta name="is-user-country-tr" content="0" />
-
-  
-  
-  <meta property="twitter:card" content="summary" />
-<meta property="twitter:site" content="&#64;sozluk" />
-
-<meta property="twitter:title" content="en iyi akustik gitar şarkıları">
-<meta property="twitter:description" content="ilk aklıma gelenler:
-
-yui - life
-http://vimeo.com/18407520
-
-iron &amp; wine - boy with a coin
-http://youtu.be/KHw7gdJ14uQ">
-<meta property="twitter:image" content="https://eksisozluk.com/content/img/ilogo_tw.png?v=1" />
-
-
-</head>
-<body class="light-theme theme-disabled" itemscope itemtype="http://schema.org/WebPage">
-  
-  <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
-
-    <symbol id="eksico-me" viewBox="0 0 512 512">
-      <path d="m427 478c0-94-77-171-171-171-94 0-171 77-171 171l0 34-34 0 0-34c0-84 52-160 130-191-61-34-91-105-74-172 18-68 79-115 149-115 70 0 131 47 149 115 17 67-13 138-74 172 78 31 130 107 130 191l0 34-34 0z m-52-324c0-66-53-120-119-120-66 0-119 54-119 120 0 66 53 119 119 119 66 0 119-53 119-119z" />
-    </symbol>
-
-    <symbol id="eksico-dots" viewBox="0 0 512 512">
-      <path d="m64 192c-34 0-64 30-64 64 0 34 30 64 64 64 34 0 64-30 64-64 0-34-30-64-64-64z m384 0c-34 0-64 30-64 64 0 34 30 64 64 64 34 0 64-30 64-64 0-34-30-64-64-64z m-192 0c-34 0-64 30-64 64 0 34 30 64 64 64 34 0 64-30 64-64 0-34-30-64-64-64z" />
-    </symbol>
-
-    <symbol id="eksico-drop" viewBox="0 0 512 512">
-      <path d="m256 495c-96 0-171-75-171-171 0-92 171-307 171-307 0 0 171 215 171 307 0 92-75 171-171 171z" />
-    </symbol>
-
-    <symbol id="eksico-icon-facebook" viewBox="0 0 512 512">
-      <path d="m292 503l0-226 77 0 13-89-85 0 0-56c0-25 8-42 42-42l47 0 0-77c-13 0-38-4-72-4-64 0-111 42-111 115l0 64-77 0 0 89 77 0 0 226z" />
-    </symbol>
-
-    <symbol id="eksico-chevron-left" viewBox="0 0 512 512">
-      <path d="m381 62l-211 194 213 194c8 8 8 19 0 26-7 8-19 8-26 0l-224-205c-2 0-2 0-4-2-8-7-8-19 0-26 2 0 2-2 4-2l224-205c7-8 19-8 26 0 6 7 6 18-2 26z" />
-    </symbol>
-
-    <symbol id="eksico-message" viewBox="0 0 512 512">
-      <path d="m416 384l0 128-128-128-192 0c-53 0-96-27-96-80l0-208c0-53 43-96 96-96l320 0c53 0 96 43 96 96l0 208c0 53-43 80-96 80z m64-288c0-35-29-64-64-64l-320 0c-35 0-64 29-64 64l0 208c0 35 29 48 64 48l208 0 80 80 0-80 32 0c35 0 64-13 64-48z" />
-    </symbol>
-
-    <symbol id="eksico-events" viewBox="0 0 512 512">
-      <path d="m267 420c-8 0-14-8-14-13l-46-240-45 178c0 5-6 11-11 11l-132 0c-8 0-14-6-14-14 0-8 6-13 14-13l121 0 57-227c2-8 5-10 13-10 6 0 11 2 14 10l45 248 44-151c2-5 8-10 13-10 5 0 11 5 14 10l26 127 127 0c8 0 14 5 14 14 0 8-6 13-14 13l-137 0c-6 0-11-5-14-11l-19-83-43 148c0 8-8 13-13 13z" />
-    </symbol>
-
-    <symbol id="eksico-events-tracked" viewBox="0 0 512 512">
-      <path d="m476 296l-159 0c-5 0-7-2-10-4l-27-42-22 42c-2 2-7 4-12 4l-210 0c-5 0-13-4-13-12 0-7 5-12 13-12l203 0 29-49c3-5 8-7 10-7 5 0 7 2 10 4l34 52 154 0c8 0 13 5 13 12 0 8-5 12-13 12z" />
-    </symbol>
-
-    <symbol id="eksico-chevron-right" viewBox="0 0 512 512">
-      <path d="m387 256c0 6-2 9-6 13 0 0-2 0-4 2l-222 204c-7 7-19 7-24 0-8-8-8-19 0-25l211-194-211-192c-8-8-8-19 0-27 7-7 18-7 24 0l222 204c2 0 2 0 4 2 4 4 6 9 6 13z" />
-    </symbol>
-
-    <symbol id="eksico-search" viewBox="0 0 512 512">
-      <path d="m507 507c-2 3-6 5-10 5-4 0-8-2-11-5l-143-142c-74 63-182 66-259 7-78-59-104-164-63-252 41-88 138-136 233-115 95 21 162 106 162 203 0 50-18 98-51 135l142 143c6 6 6 15 0 21z m-123-299c0-97-79-176-176-176-97 0-176 79-176 176 0 97 79 176 176 176 97 0 176-79 176-176z" />
-    </symbol>
-
-    <symbol id="eksico-icon-twitter" viewBox="0 0 512 512">
-      <path d="m510 91c-18 7-40 14-58 18 22-14 40-36 47-62-22 15-44 22-65 26-18-22-47-36-76-36-62 3-109 54-109 112 0 7 0 18 3 25-83-3-163-47-214-116-10 18-14 37-14 58 0 37 18 69 47 91-18 0-33-7-47-14 0 50 33 94 83 108-11 4-18 4-29 4-7 0-14 0-18-4 11 47 51 77 98 80-36 29-83 47-130 47-8 0-19 0-26-3 47 32 102 50 160 50 192 0 297-166 297-311 0-4 0-11 0-15 18-18 36-36 51-58z" />
-    </symbol>
-
-    <symbol id="eksico-chevron-up" viewBox="0 0 512 512">
-      <path d="m496 393c-9 8-21 8-27 0l-213-231-213 231c-8 8-20 8-27 0-8-8-8-20 0-26l224-246c0-2 0-2 2-4 8-8 20-8 28 0 0 2 2 2 2 4l224 244c8 8 8 20 0 28z" />
-    </symbol>
-
-    <symbol id="eksico-drop-o" viewBox="0 0 512 512">
-      <path d="m256 507c-106 0-195-88-195-195 0-90 125-264 162-315l33-43 33 43c37 51 162 225 162 315 0 107-89 195-195 195z m0-451c-68 95-133 207-133 256 0 74 59 133 133 133 74 0 133-59 133-133 0-49-65-161-133-256z" />
-    </symbol>
-
-    <symbol id="eksico-gplus" viewBox="0 0 512 512">
-      <path d="m273 290c-48-34-63-54-14-91 28-17 45-48 45-80 3-34-14-68-45-85l40 0 39-34-156 0c-100 0-148 57-148 117 0 62 46 113 134 113-14 23-6 54 14 69-151 0-182 62-182 111 0 65 77 102 168 102 125 0 173-63 173-114 0-42-17-71-68-108z m-179-173c-9-54 20-94 62-94 43 0 80 45 86 96 5 52-17 89-60 86-45-3-85-40-88-88z m74 367c-63 0-108-37-108-86 0-45 54-82 116-82 71 0 111 42 111 85 0 48-40 83-119 83z m284-271l0-57-37 0 0 57-59 0 0 37 59 0 0 60 37 0 0-63 60 0 0-34z" />
-    </symbol>
-
-    <symbol id="eksico-chevron-down" viewBox="0 0 512 512">
-      <path d="m482 153l-211 229c0 2 0 2-1 4-8 8-20 8-28 0 0-2 0-2-1-4l-211-229c-8-8-8-20 0-25 8-8 19-8 25 0l201 218 201-220c8-8 19-6 25 0 8 9 8 19 0 27z" />
-    </symbol>
-
-    <symbol id="eksico-chevron-down-thick" viewBox="0 0 512 512">
-      <path d="m492 108c-15-15-43-12-55 4l-177 213-185-209c-16-16-40-20-55-4-16 12-20 40-4 55l197 225c31 31 63 27 94 0l189-225c16-15 16-43-4-59z" />
-    </symbol>
-
-    <symbol id="eksico-chevron-up-thick" viewBox="0 0 512 512">
-      <path d="m496 341l-189-225c-31-27-63-27-94 0l-197 225c-16 15-12 43 4 55 15 16 39 12 55-4l185-209 177 209c16 16 40 20 55 4 20-12 20-40 4-55z" />
-    </symbol>
-
-    <symbol id="eksico-cancel" viewBox="0 0 512 512">
-      <path d="m288 256l143-142c4-5 6-10 6-16c0-12-11-23-23-23c-6 0-11 1-16 6l-142 142l-142-142c-5-5-10-6-16-6c-12 0-23 11-23 23c0 6 2 11 6 16l143 142l-143 142c-4 5-6 10-6 16c0 12 11 23 23 23c6 0 11-1 16-6l142-142l142 142c5 5 10 6 16 6c12 0 23-11 23-23c0-6-2-11-6-16z" />
-    </symbol>
-
-    <symbol id="eksico-cw" viewBox="0 0 512 512">
-      <path d="m224 46c58 0 107 20 147 59c41 40 62 88 63 145c0 0 63 0 63 0c0 0-95 105-95 105c0 0-94-105-94-105c0 0 74 0 74 0c-1-42-17-78-48-108c-31-29-67-44-110-44c-43 0-80 16-110 46c-31 31-46 68-46 112c0 43 15 80 46 111c30 30 67 46 110 46c36 0 67-11 93-31c0 0 36 39 36 39c-37 30-80 45-129 45c-57 0-106-21-147-62c-41-40-62-90-62-148c0-58 21-108 62-148c41-41 90-62 147-62" />
-    </symbol>
-
-    <symbol id="eksico-message-filled" viewBox="0 0 512 512">
-      <path d="m416 384l0 128-128-128-192 0c-53 0-96-27-96-80l0-208c0-53 43-96 96-96l320 0c53 0 96 43 96 96l0 208c0 53-43 80-96 80z" />
-    </symbol>
-
-    <symbol id="eksico-filter" viewBox="0 0 512 512">
-      <path d="m226 133l284 0 0 19-284 0z m-224 0l57 0 0 19-57 0z m140-57c37 0 67 29 67 66 0 37-30 66-67 66-36 0-66-29-66-66 0-37 30-66 66-66m0-19c-47 0-85 38-85 85 0 47 38 85 85 85 47 0 86-38 86-85 0-47-39-85-86-85z m-140 303l284 0 0 19-284 0z m451 0l57 0 0 19-57 0z m-83-57c36 0 66 30 66 66 0 37-30 67-66 67-37 0-67-30-67-67 0-36 30-66 67-66m0-19c-47 0-86 38-86 85 0 47 39 86 86 86 47 0 85-39 85-86 0-47-38-85-85-85z" />
-    </symbol>
-
-    <symbol id="eksico-checkbox-checked" viewBox="0 0 512 512">
-      <path d="m256 512c-141 0-256-115-256-256 0-141 115-256 256-256 141 0 256 115 256 256 0 141-115 256-256 256z m0-482c-125 0-226 101-226 226 0 125 101 226 226 226 125 0 226-101 226-226 0-125-101-226-226-226z m-55 292l-90-90-30 30 120 120 256-257-29-30z" />
-    </symbol>
-
-    <symbol id="eksico-checkbox" viewBox="0 0 512 512">
-      <path d="m256 512c-141 0-256-115-256-256 0-141 115-256 256-256 141 0 256 115 256 256 0 141-115 256-256 256z m0-482c-125 0-226 101-226 226 0 125 101 226 226 226 125 0 226-101 226-226 0-125-101-226-226-226z" />
-    </symbol>
-
-    <symbol id="eksico-tip" viewBox="0 0 512 512">
-      <path d="m229 305c0-8 3-15 8-21 5-5 13-9 20-9 8 0 15 4 21 9 5 6 8 13 8 21 0 8-3 16-8 21-6 6-13 9-21 9-7 0-15-3-20-9-5-5-8-13-8-21z m6-146l-1-43 48 0-2 43-8 98-30 0z m229 273l-144 0-64 64-64-64-144 0c-26 0-48-22-48-48l0-320c0-27 22-48 48-48l416 0c26 0 48 21 48 48l0 320c0 26-22 48-48 48z m16-368c0-9-7-16-16-16l-416 0c-9 0-16 7-16 16l0 320c0 9 7 16 16 16l160 0 48 48 48-48 160 0c9 0 16-7 16-16z" />
-    </symbol>
-
-    <symbol id="eksico-star-o" viewBox="0 0 512 512">
-      <path d="m343 287l88-85-121-18-54-109-54 109-121 18 88 85-21 120 108-57 108 57z m151-102c0 4-3 9-8 14l-103 101 24 143c0 1 0 3 0 5 0 10-3 15-11 15-4 0-8-2-12-4l-128-67-128 67c-4 2-8 4-12 4-4 0-7-2-9-5-2-2-3-6-3-10 0-1 0-3 1-5l24-143-104-101c-4-6-7-10-7-14 0-7 6-12 16-13l144-21 64-130c4-8 8-12 14-12 6 0 10 4 14 12l64 130 144 21c10 1 16 6 16 13z" />
-    </symbol>
-
-    <symbol id="eksico-star" viewBox="0 0 512 512">
-      <path d="m494 185c0 4-3 9-8 14l-103 101 24 143c0 1 0 3 0 5 0 4-1 8-3 10-2 3-4 5-8 5-4 0-8-2-12-4l-128-67-128 67c-4 2-8 4-12 4-4 0-7-2-9-5-2-2-3-6-3-10 0-1 0-3 1-5l24-143-104-101c-4-6-7-10-7-14 0-7 6-12 16-13l144-21 64-130c4-8 8-12 14-12 6 0 10 4 14 12l64 130 144 21c10 1 16 6 16 13z" />
-    </symbol>
-
-    <symbol id="eksico-thumbs-o-up" viewBox="0 0 512 512">
-      <path d="m110 384c0-5-2-9-6-13-3-3-8-5-13-5-5 0-9 2-12 5-4 4-6 8-6 13 0 5 2 9 6 13 3 3 7 5 12 5 5 0 10-2 13-5 4-4 6-8 6-13z m329-165c0-9-4-18-11-25-8-7-16-11-26-11l-100 0c0-11 4-26 13-46 10-19 14-34 14-46 0-18-3-32-9-41-6-9-18-13-37-13-5 5-8 13-10 24-3 11-6 23-9 36-4 12-9 23-17 31-4 4-12 13-22 26-1 1-3 4-7 9-3 4-6 8-9 11-2 3-5 7-10 12-4 5-8 10-11 13-3 3-7 7-11 10-4 4-8 6-11 8-4 2-8 2-11 2l-9 0 0 183 9 0c3 0 6 1 9 1 4 1 7 1 10 2 3 1 6 2 11 3 4 2 8 3 10 3 2 1 5 2 10 4 4 2 7 3 8 3 40 14 73 21 98 21l34 0c37 0 55-16 55-48 0-5 0-10-1-16 6-3 10-8 13-15 4-7 5-14 5-21 0-7-1-13-5-20 10-9 15-20 15-34 0-4-1-10-2-15-2-6-5-11-8-14 7 0 12-5 16-13 4-9 6-17 6-24z m36 0c0 17-4 33-14 47 2 6 3 13 3 19 0 15-4 29-11 42 1 4 1 8 1 12 0 19-6 36-17 51 0 26-8 47-24 62-17 16-38 23-65 23l-37 0c-18 0-36-2-54-6-18-4-39-11-62-19-22-7-35-11-40-11l-82 0c-10 0-19-4-26-11-7-7-10-16-10-26l0-183c0-10 3-18 10-25 7-8 16-11 26-11l78 0c7-5 20-19 40-44 11-15 21-27 30-37 5-5 8-13 10-24 2-12 5-24 9-37 4-12 10-22 18-30 7-7 16-11 25-11 16 0 31 3 44 9 12 6 22 16 29 29 6 13 10 31 10 53 0 18-5 36-14 55l50 0c20 0 37 8 52 22 14 14 21 32 21 51z" />
-    </symbol>
-
-    <symbol id="eksico-thumbs-o-down" viewBox="0 0 512 512">
-      <path d="m110 128c0-5-2-9-6-13-3-3-8-5-13-5-5 0-9 2-12 5-4 4-6 8-6 13 0 5 2 9 6 13 3 3 7 5 12 5 5 0 10-2 13-5 4-4 6-8 6-13z m329 165c0-7-2-15-6-24-4-8-9-13-16-13 3-3 6-8 8-14 1-5 2-11 2-15 0-14-5-25-15-34 4-7 5-13 5-20 0-7-1-14-5-21-3-7-7-12-13-15 1-6 1-11 1-16 0-16-4-28-14-36-9-8-22-12-39-12l-36 0c-25 0-58 7-98 21-1 0-4 1-8 3-5 2-8 3-10 4-2 0-6 1-10 3-5 1-8 2-11 3-3 1-6 1-10 2-3 0-6 1-9 1l-9 0 0 183 9 0c3 0 7 0 11 2 3 2 7 4 11 8 4 3 8 7 11 10 3 3 7 8 11 13 5 5 8 9 10 12 3 3 6 7 9 11 4 5 6 8 7 9 10 13 18 22 22 26 8 8 13 19 17 31 3 13 6 25 9 36 2 11 5 19 10 24 19 0 31-4 37-13 6-9 9-23 9-41 0-12-4-27-14-46-9-20-13-35-13-46l100 0c10 0 18-4 26-11 7-7 11-16 11-25z m36 0c0 19-7 37-21 51-15 14-32 22-52 22l-50 0c9 19 14 37 14 55 0 22-4 40-10 53-7 13-17 23-29 29-13 6-28 9-44 9-9 0-18-4-25-11-7-6-12-14-16-23-4-9-6-18-7-26-1-8-3-16-5-24-2-8-5-14-9-18-9-10-19-22-30-37-20-25-33-39-40-44l-78 0c-10 0-19-3-26-11-7-7-10-15-10-25l0-183c0-10 3-19 10-26 7-7 16-11 26-11l82 0c5 0 18-4 40-11 24-9 45-15 64-19 18-4 37-6 57-6l32 0c26 0 48 7 64 22 17 15 25 36 25 62l0 1c11 15 17 32 17 51 0 4 0 8-1 12 7 13 11 27 11 42 0 6-1 13-3 19 10 14 14 30 14 47z" />
-    </symbol>
-
-    <symbol id="eksico-caret-down-two" viewBox="0 0 512 512">
-      <path d="m402 201c0 5-2 9-5 13l-128 128c-4 4-8 5-13 5c-5 0-9-1-13-5l-128-128c-3-4-5-8-5-13c0-5 2-9 5-13c4-3 8-5 13-5l256 0c5 0 9 2 13 5c3 4 5 8 5 13z" />
-    </symbol>
-
-    <symbol id="eksico-caret-up-two" viewBox="0 0 512 512">
-      <path d="m402 347c0 5-2 10-5 13c-4 4-8 6-13 6l-256 0c-5 0-9-2-13-6c-3-3-5-8-5-13c0-5 2-9 5-12l128-128c4-4 8-6 13-6c5 0 9 2 13 6l128 128c3 3 5 7 5 12z" />
-    </symbol>
-
-    <symbol id="eksico-matter-up" viewBox="0 0 512 512">
-      <path d="m402 347c0 5-2 10-5 13c-4 4-8 6-13 6l-256 0c-5 0-9-2-13-6c-3-3-5-8-5-13c0-5 2-9 5-12l128-128c4-4 8-6 13-6c5 0 9 2 13 6l128 128c3 3 5 7 5 12z" />
-    </symbol>
-
-    <symbol id="eksico-matter-down" viewBox="0 0 512 512">
-      <path d="m402 201c0 5-2 9-5 13l-128 128c-4 4-8 5-13 5c-5 0-9-1-13-5l-128-128c-3-4-5-8-5-13c0-5 2-9 5-13c4-3 8-5 13-5l256 0c5 0 9 2 13 5c3 4 5 8 5 13z" />
-    </symbol>
-
-    <symbol id="eksico-pinned" viewBox="0 0 512 512">
-      <path d="M479,124.08,386.26,31.32C373.67,18.74,365.2.28,340.48,0,310.35,23.08,304.35,51.49,326,87.94L194.71,183.12,161,167.45c-46.34-14.17-98.85-.89-114.45,31.32.8,30.75,40.63,53.88,57.83,71.08L236.88,402.37C256.95,422.44,277,451.94,303.14,465c38.73-.2,57.15-62.6,43.37-106-4.74-14.93-13-27.87-18.07-41L421.2,185.52h3.61c28,20.75,72.7,14.42,86.74-15.66C511.07,145.85,491.47,136.53,479,124.08Z" />
-      <path d="M91.11,375.87,26.05,461.4C19.62,470.59-7.43,498,2,512c19.53-1.8,31.82-15.06,44.57-24.09l89.15-67.46,48.19-41,1.2-2.41-51.8-50.6Z" />
-    </symbol>
-
-    <symbol id="eksico-gear" viewBox="0 0 24 24">
-      <path d="M24 13.616v-3.232c-1.651-.587-2.694-.752-3.219-2.019v-.001c-.527-1.271.1-2.134.847-3.707l-2.285-2.285c-1.561.742-2.433 1.375-3.707.847h-.001c-1.269-.526-1.435-1.576-2.019-3.219h-3.232c-.582 1.635-.749 2.692-2.019 3.219h-.001c-1.271.528-2.132-.098-3.707-.847l-2.285 2.285c.745 1.568 1.375 2.434.847 3.707-.527 1.271-1.584 1.438-3.219 2.02v3.232c1.632.58 2.692.749 3.219 2.019.53 1.282-.114 2.166-.847 3.707l2.285 2.286c1.562-.743 2.434-1.375 3.707-.847h.001c1.27.526 1.436 1.579 2.019 3.219h3.232c.582-1.636.75-2.69 2.027-3.222h.001c1.262-.524 2.12.101 3.698.851l2.285-2.286c-.744-1.563-1.375-2.433-.848-3.706.527-1.271 1.588-1.44 3.221-2.021zm-12 2.384c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4z" />
-    </symbol>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>509 Bandwidth Limit Exceeded</TITLE>
+</HEAD><BODY>
+<H1>Bandwidth Limit Exceeded</H1>
       
-    <symbol id="eksico-close" viewBox="0 0 24 24" >
-      <path d="M6.21185 16.7459C5.93338 17.0244 5.92542 17.5097 6.21185 17.7882C6.49827 18.0666 6.97564 18.0666 7.25411 17.7882L12.004 13.0383L16.7459 17.7882C17.0323 18.0666 17.5097 18.0746 17.7882 17.7882C18.0666 17.5017 18.0666 17.0244 17.7882 16.7459L13.0383 11.996L17.7882 7.25411C18.0666 6.96769 18.0746 6.49031 17.7882 6.21185C17.5017 5.93338 17.0323 5.93338 16.7459 6.21185L12.004 10.9617L7.25411 6.21185C6.97564 5.93338 6.49031 5.92542 6.21185 6.21185C5.93338 6.49827 5.93338 6.97564 6.21185 7.24615L10.9617 11.996L6.21185 16.7459Z" fill="black"/>
-    </symbol>
-
-  </svg>
-
-  <script>
-var pp_gemius_identifier = 'bJub8NwkyDhwR5K9_vQ5U7PpLTCyoIOWs9yGN3kl4cz.d7';
-</script>
-  <header itemscope itemtype="http://schema.org/WPHeader">
-  <div id="top-bar" class="loggedoff">
-    <div id="logo">
-      <a tabindex="-1" href="/">
-        ekşi sözlük
-      </a>
-    </div>
-    <form action="/" method="get" id="search-form" class="inline" role="search">
-  <input type="text" placeholder="başlık, #entry, &#64;yazar" id="search-textbox" accesskey="b"
-         name="q" maxlength="145" />
-  <span class="spin">↻</span>
-  <button type="submit" aria-label="getir">
-    <svg class="eksico">
-      <use xlink:href="#eksico-search"></use>
-    </svg>
-  </button>
-  <a id="a3-toggle" href="#" accesskey="a">&nbsp;</a>
-</form>
-
-<div id="auto-complete-result" style="display: none"></div>
-<form action="/basliklar/ara" class="vertical" id="advanced-search-form" method="get" role="search">
-<div>
-  <label for="SearchForm_Keywords">kelimeler</label>
-<input id="SearchForm_Keywords" name="SearchForm.Keywords" type="text" value="" />
-<span class="field-validation-valid" data-valmsg-for="SearchForm.Keywords" data-valmsg-replace="true"></span>
-
-</div>
-<div>
-  <label for="SearchForm_Author">yazar</label>
-  <input autocomplete="off" class="nickpicker" id="SearchForm_Author" maxlength="40" name="SearchForm.Author" placeholder="" type="text" value="" />
-</div>
-<div>
-  <label for="SearchForm_When_From">ne zaman</label>
-<span class="daterange">
-  <input data-val="true" data-val-date="The field From must be a date." id="SearchForm_When_From" name="SearchForm.When.From" type="date" value="" />
-
-  <input data-val="true" data-val-date="The field To must be a date." id="SearchForm_When_To" name="SearchForm.When.To" type="date" value="" />
-
-  <span class="field-validation-valid" data-valmsg-for="SearchForm.When.From" data-valmsg-replace="true"></span>
-  <span class="field-validation-valid" data-valmsg-for="SearchForm.When.To" data-valmsg-replace="true"></span>
-</span>
-
-</div>
-<div>
-  <div class="checkbox"><input data-val="true" data-val-required="The güzelinden olsun field is required." id="SearchForm_NiceOnly" name="SearchForm.NiceOnly" type="checkbox" value="true" /><input name="SearchForm.NiceOnly" type="hidden" value="false" />
-  <label for="SearchForm_NiceOnly">güzelinden olsun</label>
-</div>
-<span class="field-validation-valid" data-valmsg-for="SearchForm.NiceOnly" data-valmsg-replace="true"></span>
-</div>
-<div><label for="SearchForm_SortOrder">sıralama şekli</label>
-<select data-val="true" data-val-required="The sıralama şekli field is required." id="SearchForm_SortOrder" name="SearchForm.SortOrder"><option value="Topic">alfabetik</option>
-<option selected="selected" value="Date">yeniden eskiye</option>
-<option value="Count">dolu dolu</option>
-</select></div>
-<div class="actions">
-  <button type="submit" class="primary">mükemmel ara</button>
-  <a class="close">boşver</a>
-</div>
-</form>
-    <nav id="top-navigation" class="" itemscope itemtype="http://schema.org/SiteNavigationElement">
-      <ul>
-          <li class="mobile-only"><a href="/basliklar/m/populer" title="dünyamızda neler olup bitiyor">gündem</a></li>
-          <li class="mobile-only"><a href="/m/debe" title="dünün en beğenilen entry&#39;leri">debe</a></li>
-          <li class="mobile-only"><a href="/basliklar/m/sorunsal" title="dünyamızda neler olup bitiyor">sorunsallar</a></li>
-          <li>
-            <a id="top-login-link" href="/giris">
-              giriş
-            </a>
-          </li>
-          <li>
-            <a id="top-registration-link" href="/kayit">
-              kayıt ol
-            </a>
-          </li>
-        
-        <li class="mobile-only no-hover pena-logo-mobile">
-          <a href="https://www.youtube.com/penavideo" target="_blank">
-            <img src="/Content/img/new-logos/pena-logo.svg" alt="pena" />
-          </a>
-        </li>
-        <li class="mobile-only no-hover eksiseyler-logo-mobile">
-          <a href="https://seyler.eksisozluk.com" target="_blank">
-            <img src="/Content/img/new-logos/eksiseyler-logo.svg" alt="pena" />
-          </a>
-        </li>
-      </ul>
-    </nav>
-    <div style="clear: both;"></div>
-    <nav id="sub-navigation">
-      <ul id="quick-index-nav">
-          <li><a href="/basliklar/gundem" title="dünyamızda neler olup bitiyor">gündem</a></li>
-          <li><a href="/debe" title="dünün en beğenilen entry&#39;leri">debe</a></li>
-          <li><a href="/basliklar/sorunsal" title="dünyamızda neler olup bitiyor">sorunsallar</a></li>
-
-  <li class="nav-channel-item"><a class="index-link" href="/basliklar/kanal/spor" title="futbol, basketbol, tenis ve curling gibi ata sporları">#spor</a></li>
-  <li class="nav-channel-item"><a class="index-link" href="/basliklar/kanal/ili%C5%9Fkiler" title="sevgili, eski sevgili ve hoşlanılan kız">#ilişkiler</a></li>
-  <li class="nav-channel-item"><a class="index-link" href="/basliklar/kanal/siyaset" title="partiler, politikacılar, terör, savaş kan ve korku">#siyaset</a></li>
-<li class="dropdown">
-  <a class="dropdown-toggle" title="kanallar">
-    <svg class="eksico">
-      <use xlink:href="#eksico-dots"></use>
-    </svg>
-  </a>
-  <ul class="dropdown-menu">
-    <li><a href="/basliklar/tarihte-bugun" title="tarihte bugün">tarihte bugün</a></li>
-      <li><a class="index-link" href="/basliklar/kanal/seyahat" title="gezilecek, görülecek yerlerle ilgili her şey">#seyahat</a></li>
-      <li><a class="index-link" href="/basliklar/kanal/m%C3%BCzik" title="gruplar, parçalar, müzik teorileri, enstrümanlar, pena">#müzik</a></li>
-      <li><a class="index-link" href="/basliklar/kanal/tv" title="tv kanalları, diziler, yarışmalar">#tv</a></li>
-      <li><a class="index-link" href="/basliklar/kanal/haber" title="yurtta ve dünyada olan biten">#haber</a></li>
-      <li><a class="index-link" href="/basliklar/kanal/bilim" title="atom mühendisliğine giden yolda her konu">#bilim</a></li>
-      <li><a class="index-link" href="/basliklar/kanal/edebiyat" title="kitaplar, yazarlar, ekoller, yayıncılar, ödüller ve niceleri">#edebiyat</a></li>
-      <li><a class="index-link" href="/basliklar/kanal/e%C4%9Fitim" title="akademi, müfredat, hocalar ve dersler">#eğitim</a></li>
-      <li><a class="index-link" href="/basliklar/kanal/ekonomi" title="finans, yatırım araçları, krizler, bankalar, parasal göstergeler">#ekonomi</a></li>
-    <li><a href="/basliklar/basiboslar" title="henüz bir kanala ait olmayan başlıklar">başıboşlar</a></li>
-    <li><a class="not-index" href="/kanallar">tüm kanallar</a></li>
-  </ul>
-</li>
-
-      </ul>
-      <div id="nav-extra-buttons">
-        <div class="no-hover link-container pena-logo-container">
-          <a href="https://www.youtube.com/penavideo" class="pena-logo" target="_blank">
-            pena
-          </a>
-        </div>
-        <div class="no-hover link-container eksiseyler-logo-container">
-          <a href="https://seyler.eksisozluk.com" class="eksiseyler-logo" target="_blank">
-            ekşişeyler
-          </a>
-        </div>
-      </div>
-    </nav>
-
-
-  </div>
-</header>
-
-
-
-
-
-  
-  <div class="container">
-    <div id="yeni-reklam">
       
-    </div>
-  </div>
-  <div id="container">
-    <div id="index-section" class="robots-nocontent main-left-frame">
-      <nav id="partial-index" itemscope itemtype="http://schema.org/SiteNavigationElement">
-
-
-  <div class="clearfix dropdown  ">
-          <h2 title="181 başlık">
-        gündem
-          <a class="channel-filter-toggle" accesskey="a">
-            <svg class="eksico">
-              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#eksico-gear"></use>
-            </svg>
-          </a>
-      </h2>
-  </div>
-<div id="index-filter-prefs" style="display:block">
-  <span id="channel-filter-description"> gündeminizi kişiselleştirin:</span>
-    <ul class="index-channel-filter">
-      <li>
-        <span id="filter-index-channel" class="active"
-              data-enabled="1" data-filter-id="1"
-              data-set-cookie-action="/basliklar/set-channel-filter"
-              data-mobile-action="/basliklar/m/populer"
-              data-web-action="/basliklar/gundem">
-        #spor
-        </span>
-      </li>
-      <li>
-        <span id="filter-index-channel" class="active"
-              data-enabled="1" data-filter-id="2"
-              data-set-cookie-action="/basliklar/set-channel-filter"
-              data-mobile-action="/basliklar/m/populer"
-              data-web-action="/basliklar/gundem">
-        #siyaset
-        </span>
-      </li>
-      <li>
-        <span id="filter-index-channel" class="active"
-              data-enabled="1" data-filter-id="4"
-              data-set-cookie-action="/basliklar/set-channel-filter"
-              data-mobile-action="/basliklar/m/populer"
-              data-web-action="/basliklar/gundem">
-        #anket
-        </span>
-      </li>
-      <li>
-        <span id="filter-index-channel" class="active"
-              data-enabled="1" data-filter-id="5"
-              data-set-cookie-action="/basliklar/set-channel-filter"
-              data-mobile-action="/basliklar/m/populer"
-              data-web-action="/basliklar/gundem">
-        #ilişkiler
-        </span>
-      </li>
-      <li>
-        <span id="filter-index-channel" class="passive"
-              data-enabled="0" data-filter-id="10"
-              data-set-cookie-action="/basliklar/set-channel-filter"
-              data-mobile-action="/basliklar/m/populer"
-              data-web-action="/basliklar/gundem">
-        #ekşi sözlük
-        </span>
-      </li>
-      <li>
-        <span id="filter-index-channel" class="passive"
-              data-enabled="0" data-filter-id="11"
-              data-set-cookie-action="/basliklar/set-channel-filter"
-              data-mobile-action="/basliklar/m/populer"
-              data-web-action="/basliklar/gundem">
-        #yetişkin
-        </span>
-      </li>
-      <li>
-        <span id="filter-index-channel" class="passive"
-              data-enabled="0" data-filter-id="39"
-              data-set-cookie-action="/basliklar/set-channel-filter"
-              data-mobile-action="/basliklar/m/populer"
-              data-web-action="/basliklar/gundem">
-        #troll
-        </span>
-      </li>
-  </ul>
-
-</div>
-
-
-<ul class="topic-list partial" data-timestamp="637421869281704604">
-  
-<li>
-  <a
-     href="/covid-asisinin-ucretsiz-olmasi-mecliste-reddedildi--6747460?a=popular">covid aşısının ücretsiz olması mecliste reddedildi <small>284</small></a>
-</li>
-<li>
-  <a
-     href="/muhendislik-mezunlari-su-an-ne-is-yapiyor--6633781?a=popular">mühendislik mezunları şu an ne iş yapıyor <small>194</small></a>
-</li>
-  <li id="sponsored-index-item-first" style="display:none">
-    <div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebsponsoredindexitemfirst ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_sponsored_title&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1458673906471-0&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_sponsored_title&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebSponsoredIndexItemFirst&quot;,&quot;DisplayTypes&quot;:4}"></div>
-  </li>
-
-
-
-<li>
-  <a
-     href="/suriyeliler-olmasa-sanayi-biter--6747650?a=popular">suriyeliler olmasa sanayi biter <small>103</small></a>
-</li>
-<li>
-  <a
-     href="/iscep--1776436?a=popular">işcep <small>262</small></a>
-</li>
-  <li id="sponsored-index-item-third" style="display:none">
-    <div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebsponsoredindexitemthird ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_sponsored_title_3&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1458674294703-0&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_sponsored_title_3&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebSponsoredIndexItemThird&quot;,&quot;DisplayTypes&quot;:4}"></div>
-  </li>
-
-
-
-<li id="nativespot-unit-10924"><script>NativeAdPub.push({ target: '10924' , id: 'nativespot-unit-10924'});</script></li>
-<li>
-  <a
-     href="/yazarlarin-efsane-cumada-harcadiklari-para--6746671?a=popular">yazarların efsane cuma'da harcadıkları para <small>536</small></a>
-</li>
-<li>
-  <a
-     href="/sarimsagin-en-yakistigi-yiyecek--6747185?a=popular">sarımsağın en yakıştığı yiyecek <small>189</small></a>
-</li>
-<li>
-  <a
-     href="/esinin-bikini-giymesine-izin-veren-insan--4083295?a=popular">eşinin bikini giymesine izin veren insan <small>100</small></a>
-</li>
-<li>
-  <a
-     href="/turk-kizinin-merhaba-sorusuna-verecegi-cevaplar--4563344?a=popular">türk kızının merhaba sorusuna vereceği cevaplar <small>175</small></a>
-</li>
-  <li id="sponsored-index-item-second" style="display:none">
-    <div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebsponsoredindexitemsecond ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_sponsored_title_2&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1458674186341-0&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_sponsored_title_2&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebSponsoredIndexItemSecond&quot;,&quot;DisplayTypes&quot;:4}"></div>
-  </li>
-
-
-
-<li>
-  <a
-     href="/28-kasim-2020-caykur-rizespor-galatasaray-maci--6740552?a=popular">28 kasım 2020 çaykur rizespor galatasaray maçı <small>29</small></a>
-</li>
-<li>
-  <a
-     href="/introsu-bas-gitarla-baslayan-sarkilar--5487398?a=popular">introsu bas gitarla başlayan şarkılar <small>145</small></a>
-</li>
-<li>
-  <a
-     href="/turkiyenin-en-yobaz-ilcesi--6321251?a=popular">türkiye'nin en yobaz ilçesi <small>291</small></a>
-</li>
-<li>
-  <a
-     href="/ben-diz-altinda-etekle-buyumus-kizim--6747434?a=popular">ben diz altında etekle büyümüş kızım <small>100</small></a>
-</li>
-<li>
-  <a
-     href="/hoslanilan-kizin-04-47de-whatsappta-gorulmesi--4603398?a=popular">hoşlanılan kızın 04.47'de whatsapp'ta görülmesi <small>35</small></a>
-</li>
-<li>
-  <a
-     href="/covid-19-asilanmasinda-uygulanacak-sira--6747270?a=popular">covid-19 aşılanmasında uygulanacak sıra <small>156</small></a>
-</li>
-<li>
-  <a
-     href="/kemal-kilicdarogluna-bir-mesaj-birak--5704097?a=popular">kemal kılıçdaroğlu'na bir mesaj bırak <small>47</small></a>
-</li>
-<li>
-  <a
-     href="/akademisyen-egosu--2800975?a=popular">akademisyen egosu <small>36</small></a>
-</li>
-<li>
-  <a
-     href="/erkek-erkege-kesismek--4333253?a=popular">erkek erkeğe kesişmek <small>48</small></a>
-</li>
-  <li id="sponsored-index-item-fifth" style="display:none">
-    <div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebsponsoredindexitemfifth ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_sponsored_title_5&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1458674294704-0&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_sponsored_title_5&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebSponsoredIndexItemFifth&quot;,&quot;DisplayTypes&quot;:4}"></div>
-  </li>
-
-
-
-<li>
-  <a
-     href="/pokemon-tasolari-geri-gelsin-kampanyasi--6747120?a=popular">pokemon tasoları geri gelsin kampanyası <small>173</small></a>
-</li>
-<li>
-  <a
-     href="/cocuk-istemeyen-evli-cift--6125511?a=popular">çocuk istemeyen evli çift <small>135</small></a>
-</li>
-<li>
-  <a
-     href="/turk-erkeklerinin-kadinlarla-iletisim-kuramamasi--6747149?a=popular">türk erkeklerinin kadınlarla iletişim kuramaması <small>83</small></a>
-</li>
-<li>
-  <a
-     href="/erkeklerin-guclu-kadin-yerine-piremses-tercihi--6747549?a=popular">erkeklerin güçlü kadın yerine piremses tercihi <small>27</small></a>
-</li>
-  <li id="sponsored-index-item-fourth" style="display:none">
-    <div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebsponsoredindexitemfourth ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_sponsored_title_4&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1458674186344-0&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_sponsored_title_4&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebSponsoredIndexItemFourth&quot;,&quot;DisplayTypes&quot;:4}"></div>
-  </li>
-
-
-
-<li>
-  <a
-     href="/heykelleri-kopek-lesi-gibi-suruklenecek--6747605?a=popular">heykelleri köpek leşi gibi sürüklenecek <small>49</small></a>
-</li>
-<li>
-  <a
-     href="/guzel-kadinla-agri-vs-siradan-bir-kadinla-paris--6181493?a=popular">güzel kadınla ağrı vs sıradan bir kadınla paris <small>35</small></a>
-</li>
-<li>
-  <a
-     href="/felsefe-sanat-kitap-belgesel-sarap-seven-kadin--2403962?a=popular">felsefe sanat kitap belgesel şarap seven kadın <small>27</small></a>
-</li>
-<li>
-  <a
-     href="/ben-seninle-mutsuzluga-da-varim--2780588?a=popular">ben seninle mutsuzluğa da varım <small>40</small></a>
-</li>
-<li>
-  <a
-     href="/ikinci-el-otomobil-piyasasi--2309757?a=popular">ikinci el otomobil piyasası <small>49</small></a>
-</li>
-<li>
-  <a
-     href="/roma-rakamiyla-4un-gereksiz-sembolize-edilisi--6747545?a=popular">roma rakamıyla 4'ün gereksiz sembolize edilişi <small>60</small></a>
-</li>
-<li>
-  <a
-     href="/atari-salonunda-oynanmis-en-keyifli-oyun--6073241?a=popular">atari salonunda oynanmış en keyifli oyun <small>189</small></a>
-</li>
-<li>
-  <a
-     href="/sesinden-tiksinilen-sarkicilar--6708922?a=popular">sesinden tiksinilen şarkıcılar <small>110</small></a>
-</li>
-<li>
-  <a
-     href="/mhp-avrasyaci-mi-atlantikci-mi-sorunsali--6747438?a=popular">mhp avrasyacı mı atlantikçi mi sorunsalı <small>72</small></a>
-</li>
-<li>
-  <a
-     href="/covid-19--6362411?a=popular">covid-19 <small>89</small></a>
-</li>
-<li>
-  <a
-     href="/baris-murat-yagcinin-dolandirici-oldugu-iddiasi--6747567?a=popular">barış murat yağcı'nın dolandırıcı olduğu iddiası <small>46</small></a>
-</li>
-<li>
-  <a
-     href="/ilk-opusulen-insanla-bugunku-durum--6634778?a=popular">ilk öpüşülen insanla bugünkü durum <small>242</small></a>
-</li>
-<li>
-  <a
-     href="/harika-bir-an-yasayip-fotograflamamak--5817609?a=popular">harika bir an yaşayıp fotoğraflamamak <small>40</small></a>
-</li>
-<li>
-  <a
-     href="/hasan-can-kaya--3161946?a=popular">hasan can kaya <small>113</small></a>
-</li>
-<li>
-  <a
-     href="/imamoglunun-cumhurbaskanimiza-karsi-gelmesi--6747405?a=popular">imamoğlu'nun cumhurbaşkanımıza karşı gelmesi <small>61</small></a>
-</li>
-<li>
-  <a
-     href="/de-dust2--124908?a=popular">de_dust2 <small>24</small></a>
-</li>
-<li>
-  <a
-     href="/yazarlarin-en-sevdigi-ses--5468221?a=popular">yazarların en sevdiği ses <small>154</small></a>
-</li>
-<li>
-  <a
-     href="/28-kasim-2020-basaksehir-denizlispor-maci--6747627?a=popular">28 kasım 2020 başakşehir denizlispor maçı <small>14</small></a>
-</li>
-<li>
-  <a
-     href="/recep-tayyip-erdogan--95281?a=popular">recep tayyip erdoğan <small>54</small></a>
-</li>
-<li>
-  <a
-     href="/caravan-metalcisi-vs-kemanci-metalcisi--1018866?a=popular">caravan metalcisi vs kemancı metalcisi <small>40</small></a>
-</li>
-<li>
-  <a
-     href="/airpods-pismanliktir--6746824?a=popular">airpods pişmanlıktır <small>154</small></a>
-</li>
-<li>
-  <a
-     href="/abdulhamitin-torununun-ev-yapimi-salca-satmasi--6746982?a=popular">abdulhamit'in torununun ev yapımı salça satması <small>138</small></a>
-</li>
-<li>
-  <a
-     href="/cuneyt-ozdemirin-beyin-yakan-imamoglu-yorumu--6746497?a=popular">cüneyt özdemir'in beyin yakan imamoğlu yorumu <small>138</small></a>
-</li>
-<li>
-  <a
-     href="/170lik-erkegi-kisa-bulan-165lik-kiz--6747632?a=popular">170'lik erkeği kısa bulan 165'lik kız <small>19</small></a>
-</li>
-<li>
-  <a
-     href="/28-kasim-2020-vergi-ceza-ve-harclara-yeni-zam--6747384?a=popular">28 kasım 2020 vergi ceza ve harçlara yeni zam <small>48</small></a>
-</li>
-<li>
-  <a
-     href="/27-kasim-2020-besiktas-tweeti--6747375?a=popular">27 kasım 2020 beşiktaş tweet'i <small>142</small></a>
-</li>
-<li>
-  <a
-     href="/kadinlarin-kadinlarda-kiskandigi-seyler--4967306?a=popular">kadınların kadınlarda kıskandığı şeyler <small>129</small></a>
-</li>
-<li>
-  <a
-     href="/2020-bahreyn-gp--6247228?a=popular">2020 bahreyn gp <small>22</small></a>
-</li>
-<li>
-  <a
-     href="/erken-kalkmaktan-daha-kotusu--4206918?a=popular">erken kalkmaktan daha kötüsü <small>150</small></a>
-</li></ul>
-<div class="quick-index-continue-link-container"><a class="index-link" href="/basliklar/gundem?p=2&amp;id=3333773&amp;slug=en-iyi-akustik-gitar-sarkilari" id="quick-index-continue-link">daha da ...</a></div>
-
-
-      </nav>
-    </div>
-
-    <div id="main">
-        <div class="under-top-ad">
-        
-        <div class="web-top-ad-not-loaded ad-double-click ad-728x90 ad-banner ad-doubleclickwebmastheadfornontr ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_masthead_for_nontr&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1520256710483-0&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_masthead_for_nontr&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[728,90],&quot;Name&quot;:&quot;DoubleClickWebMastheadForNonTR&quot;,&quot;DisplayTypes&quot;:4}"></div>
-        
-        
-        </div>
-
-
-      <div id="content" class="instapaper_body" role="main">
-        <section id="content-body">
-          
-
-
-
-
-<div id="topic">
-  
-  
-  
-<h1 id="title" data-title="en iyi akustik gitar şarkıları" data-id="3333773"
-    data-slug="en-iyi-akustik-gitar-sarkilari"
-    data-vote-url="/entry/vote"
-    data-unvote-url="/entry/removevote"
-    data-comment-vote-url="/yorum/vote"
-    data-comment-unvote-url="/yorum/removevote"
-    data-add-relation-url=""
-    data-preserved="">
-  <a href="/en-iyi-akustik-gitar-sarkilari--3333773" itemprop="url"><span
-    itemprop="name">en iyi akustik gitar şarkıları</span></a>
-</h1>
-
-  
-  <div class="clearfix sub-title-container">
-    <div class="sub-title-menu">
-          <span class="nice-mode-toggler">
-      şükela:&nbsp;
-          <a href="/en-iyi-akustik-gitar-sarkilari--3333773?a=nice">tümü</a>
-      <span> | </span>
-          <a href="/en-iyi-akustik-gitar-sarkilari--3333773?a=dailynice">bugün</a>
-    </span>
-
-
-
-
-
-
-    </div>
-    <div class="pager" data-currentpage="1" data-pagecount="5"></div><div style='clear:both'></div>
-  </div>
-  
-  <div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebaffiliate645x35top ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_affiliate_top&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1501667981457-0&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_affiliate_top&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebAffiliate645x35Top&quot;,&quot;DisplayTypes&quot;:4}"></div>
-
-
-  
-  
-
-
-<ul id="entry-item-list">
-<div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebsponsoredentry ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/138586269/desktop_web_sponsored_entry&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1459426546815-0&quot;,&quot;NetworkCode&quot;:&quot;138586269&quot;,&quot;Target&quot;:&quot;desktop_web_sponsored_entry&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebSponsoredEntry&quot;,&quot;DisplayTypes&quot;:4}" id="web-sponsored-entry" style="display:none"></div><li data-id="28137838" data-author="nerde o eski gunler" data-author-id="490764" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="1" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    ilk aklıma gelenler:<br/><br/>yui - life<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://vimeo.com/18407520">http://vimeo.com/18407520</a><br/><br/>iron &amp; wine - boy with a coin<br/><a rel="nofollow noopener" class="url" target="_blank" href="http://youtu.be/KHw7gdJ14uQ">http://youtu.be/khw7gdj14uq</a>
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28137838">13.04.2012 12:08 ~ 01.10.2012 13:57</a>
       
-      <a class="entry-author" href="/biri/nerde-o-eski-gunler">nerde o eski gunler</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-<li data-id="28138083" data-author="ufuri" data-author-id="886310" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="0" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    staind - outside<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=kc3Za3jfvJg">http://www.youtube.com/watch?v=kc3za3jfvjg</a>
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28138083">13.04.2012 12:33</a>
       
-      <a class="entry-author" href="/biri/ufuri">ufuri</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-<li data-id="28138131" data-author="aerolaconic" data-author-id="460527" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="0" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    <a class="b" href="/?q=serdar+%c3%b6ztop">serdar öztop</a> - <a class="b" href="/?q=s%c3%bckut">sükut</a>
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28138131">13.04.2012 12:38</a>
       
-      <a class="entry-author" href="/biri/aerolaconic">aerolaconic</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-<li data-id="28138146" data-author="himmet dayi" data-author-id="543562" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="0" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    <a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=ky4CdN0x58A&amp;ob=av3e" title="http://www.youtube.com/watch?v=ky4CdN0x58A&amp;ob=av3e">the cranberries - animal instinct</a>
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28138146">13.04.2012 12:40</a>
       
-      <a class="entry-author" href="/biri/himmet-dayi">himmet dayi</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-<div id="networkad-inread-video-ad" style="list-style:none"><div id="div_571"></div><script async="" src="https://app.networkad.net/netasync.js?zid=571"></script></div><div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebaffiliateentry ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_affiliate_entry&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1501666779243-0&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_affiliate_entry&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebAffiliateEntry&quot;,&quot;DisplayTypes&quot;:4}" id="web-sponsored-entry" style="display:none"></div><li data-id="28138211" data-author="hohenheim of light" data-author-id="787864" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="0" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    megadeth - she wolf <br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=9BJwOZ8bZJA">http://www.youtube.com/watch?v=9bjwoz8bzja</a>
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28138211">13.04.2012 12:46</a>
       
-      <a class="entry-author" href="/biri/hohenheim-of-light">hohenheim of light</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-<li data-id="28138214" data-author="charvel" data-author-id="565938" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="0" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    <a class="b" href="/?q=david+gilmore">david gilmore</a> - <a class="b" href="/?q=wish+you+were+here">wish you were here</a><br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=3j8mr-gcgoI">http://www.youtube.com/watch?v=3j8mr-gcgoi</a>
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28138214">13.04.2012 12:47</a>
       
-      <a class="entry-author" href="/biri/charvel">charvel</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-<li data-id="28161442" data-author="nerde o eski gunler" data-author-id="490764" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="0" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    personal jesus - johnny cash
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28161442">15.04.2012 10:58</a>
       
-      <a class="entry-author" href="/biri/nerde-o-eski-gunler">nerde o eski gunler</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-<li data-id="28616037" data-author="nerde o eski gunler" data-author-id="490764" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="0" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    natalie imbruglia - torn<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://www.youtube.com/watch?v=VV1XWJN3nJo">http://www.youtube.com/watch?v=vv1xwjn3njo</a>
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28616037">18.05.2012 18:19</a>
       
-      <a class="entry-author" href="/biri/nerde-o-eski-gunler">nerde o eski gunler</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-<li data-id="28703060" data-author="nerde o eski gunler" data-author-id="490764" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="0" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    wintersleep - weighty ghost<br/><br/><a rel="nofollow noopener" class="url" target="_blank" href="http://youtu.be/Q-iW0zL2LI0">http://youtu.be/q-iw0zl2li0</a>
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28703060">25.05.2012 13:26</a>
       
-      <a class="entry-author" href="/biri/nerde-o-eski-gunler">nerde o eski gunler</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-<li data-id="28703169" data-author="therapywiththebadseedsproject" data-author-id="73194" data-flags="share report vote" data-isfavorite="false" data-ispinned="false" data-favorite-count="0" data-seyler-slug="" data-comment-count="0">
-  <div class="content">
-    savatage - sleep
-  </div>
-  <footer>
-    <div class="feedback"></div>
-    <div class="info">
-
-      <a class="entry-date permalink" href="/entry/28703169">25.05.2012 13:37</a>
       
-      <a class="entry-author" href="/biri/therapywiththebadseedsproject">therapywiththebadseedsproject</a>
-    </div>
-  </footer>
-  <div class="comment-summary">
-  <div class="comment-pages">
-  </div>
-</div>
-</li>
-
-</ul>
-
-
-<div class="pager" data-currentpage="1" data-pagecount="5"></div><div style='clear:both'></div>
-
-
-
-
-<div style="text-align:center">
-  
-</div>
-
-
-</div>
-
-
-
-
-
-﻿
-
-  
-
-
-
-
-
-
-        </section>
-        <aside id="aside" style="margin-top: 10px">
-
-          <div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebcountdown ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/138586269/desktop_web_countdown&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1511442987015-0&quot;,&quot;NetworkCode&quot;:&quot;138586269&quot;,&quot;Target&quot;:&quot;desktop_web_countdown&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebCountDown&quot;,&quot;DisplayTypes&quot;:4}"></div>
-          
-   
-
-          <div class="ad-double-click ad-300x250 ad-banner ad-doubleclickwebside ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_side&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1507285907658-1&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_side&quot;,&quot;IsLazyLoad&quot;:false,&quot;Size&quot;:[300,250],&quot;Name&quot;:&quot;DoubleClickWebSide&quot;,&quot;DisplayTypes&quot;:4}"></div>
-          
-  
-
-<iframe class="lazy" data-src ="https://seyler.eksisozluk.com/sozluk/baslik/3333773?style=white" 
-        frameborder="0" style="width: 300px; height: 340px; margin: 0 auto; display:block"></iframe>
-
-          
-          
-          
-          
-    <div class="lazy" data-src="/matterindex/topicmattersummary?slug=en-iyi-akustik-gitar-sarkilari&amp;topicid=3333773"></div>
-
-    <section id="hidden-channels" style="display:none">
-      anket,müzik
-    </section>
-  
-
-  
-  
-
-    
-
-          <div id="sticky-anchor"></div>
-          <div id="sticky-ad">
-            <div class="ad-double-click ad-300x250 ad-banner ad-doubleclickwebsidesticky ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_side_sticky&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1507285907658-2&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_side_sticky&quot;,&quot;IsLazyLoad&quot;:true,&quot;Size&quot;:[300,250],&quot;Name&quot;:&quot;DoubleClickWebSideSticky&quot;,&quot;DisplayTypes&quot;:4}"></div>
-          </div>
-          <div id="sticky-criteo">
-          </div>
-        </aside>
-      </div>
-    <div class="bottom-ads">
-      <div class="ad-double-click ad-728x90 ad-banner ad-doubleclickwebbottom ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/1024435/desktop_web_bottom&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1506505242517-0&quot;,&quot;NetworkCode&quot;:&quot;1024435&quot;,&quot;Target&quot;:&quot;desktop_web_bottom&quot;,&quot;IsLazyLoad&quot;:true,&quot;Size&quot;:[728,90],&quot;Name&quot;:&quot;DoubleClickWebBottom&quot;,&quot;DisplayTypes&quot;:4}"></div>
       
-    </div>
-      <footer id="site-footer">
-  <ul>
-    <li><a href="/iletisim">iletişim</a></li>
-    <li><a href="/reklam">reklam</a></li>
-    <li><a href="/sozluk-is-ilanlari--5895566">kariyer</a></li>
-    <li><a href="/entry/19784395">kullanım koşulları</a></li>
-    <li><a href="/entry/66470645">gizlilik politikamız</a></li>
-    <li><a href="/entry/66762977" rel="help">sss</a></li>
-    <li><a class="index-link" href="/istatistik">istatistikler</a></li>
-    <li><a href="/sub-etha">sub-etha</a></li>
-    <li><a href="https://www.instagram.com/sozluk" rel="noopener" target="_blank">instagram</a></li>
-    <li><a href="http://twitter.com/sozluk" rel="noopener" target="_blank">twitter</a></li>
-    <li><a href="http://www.facebook.com/eksisozluk" rel="noopener" target="_blank">facebook</a></li>
-  </ul>
-</footer>
-
-    </div>
-  </div>
-  <div id="user-notifications">
-  <ul></ul>
-</div>
-
-  
-  <div id="hidden-theme-colors">
-  <div id="hidden-box-color"></div>
-  <div id="hidden-link-color"></div>
-  <div id="hidden-muted-color"></div>
-  <div id="hidden-body-text-color"></div>
-  <div id="hidden-text-color"></div>
-  <div id="hidden-intopic-link-color"></div>
-  <div id="hidden-entry-footer-info-color"></div>
-</div>
-  
-<div id="hidden-eksiseyler-embed-style" style="display:none;" data-style="white"></div>
-
-  
-    <div class="toast-bottom-wrapper" id="cookie-info-container" data-container-name="cookies_info_viewed">
-      <div class="toast-bottom-content">
-        size daha iyi hizmet sunmak için ekşi'de çerezler kullanıyoruz.
-        ekşi'yi kullanarak çerezlere izin vermektesiniz.
-        <a href="/entry/65310835">daha fazla bilgi</a>
-        <a href="/" class="toast-close">
-          ×
-        </a>
-      </div>
-    </div>
-
-  <!-- Google Tag Manager (noscript) -->
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXV2Z47"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-<!-- End Google Tag Manager (noscript) -->
-
-
-
-  <div style="display: none;">
-  <svg class="eksico" id="svg-icon-facebook">
-    <use xlink:href="#eksico-icon-facebook"></use>
-  </svg>
-  <svg class="eksico" id="svg-icon-twitter">
-    <use xlink:href="#eksico-icon-twitter"></use>
-  </svg>
-  <svg class="eksico" id="svg-chevron-up">
-    <use xlink:href="#eksico-chevron-up-thick"></use>
-  </svg>
-  <svg class="eksico" id="svg-chevron-down">
-    <use xlink:href="#eksico-chevron-down-thick"></use>
-  </svg>
-  <svg class="eksico" id="svg-drop">
-    <use xlink:href="#eksico-drop"></use>
-  </svg>
-  <svg class="eksico" id="svg-dots">
-    <use xlink:href="#eksico-dots"></use>
-  </svg>
-  <svg class="eksico" id="svg-star">
-    <use xlink:href="#eksico-star"></use>
-  </svg>
-  <svg class="eksico" id="svg-matter-up">
-    <use xlink:href="#eksico-matter-up"></use>
-  </svg>
-  <svg class="eksico" id="svg-matter-down">
-    <use xlink:href="#eksico-matter-down"></use>
-  </svg>
-  <svg class="eksico" id="svg-pinned">
-    <use xlink:href="#eksico-pinned"></use>
-  </svg>
-  <svg class="eksico" id="svg-gear">
-    <use xlink:href="#eksico-gear"></use>
-  </svg>
-  <svg class="eksico" id="svg-close">
-    <use xlink:href="#eksico-close"></use>
-  </svg>
-</div>
-
-
-
-  <div id="overlay"></div>
-
-<script>
-var google_conversion_id = 878852058;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-</script>
-<script src="//www.googleadservices.com/pagead/conversion.js"></script>
-<div style="display:inline;">
-    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/878852058/?value=0&amp;guid=ON&amp;script=0" />
-</div>  <div class="ad-double-click ad-1x1 ad-banner ad-doubleclickwebinterstital ads" data-info="{&quot;NetworkIdentifier&quot;:&quot;/138586269/desktop_web_interstitial&quot;,&quot;Slot&quot;:&quot;div-gpt-ad-1577357574325-0&quot;,&quot;NetworkCode&quot;:&quot;138586269&quot;,&quot;Target&quot;:&quot;desktop_web_interstitial&quot;,&quot;IsLazyLoad&quot;:true,&quot;Size&quot;:[1,1],&quot;Name&quot;:&quot;DoubleClickWebInterstital&quot;,&quot;DisplayTypes&quot;:4}"></div>
-  
-</body>
-</html>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+The server is temporarily unable to service your
+request due to the site owner reaching his/her
+bandwidth limit. Please try again later.
+</BODY></HTML>
